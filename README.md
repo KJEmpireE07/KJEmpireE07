@@ -1,6 +1,6 @@
 # Hi, I'm Krish Jaiswal 👋
 
-B.Tech CSE '28 | Learning DSA & Full Stack Dev | Passionate about building things 🚀
+B.Tech CSE '29 | Learning DSA & Full Stack Dev | Passionate about building things 🚀
 
 ---
 
